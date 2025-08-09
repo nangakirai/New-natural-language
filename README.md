@@ -33,6 +33,9 @@
 |**j**||||||
 |**q**||||||
 
+<font color="red">红色文字</font>
+<font color="#00FF00">绿色文字</font>
+
  `ra`
   `高亮文字`
 wi,私,我、ki,君,你、hi,他
