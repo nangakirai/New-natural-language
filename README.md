@@ -28,19 +28,33 @@
 |**n**|naナな|niニに|nuヌぬ|neネね|noノの|
 |**r**|raラら|riリり|ruルる|reレれ|roロろ|
 |**c**||||||
-|**r**|**`ra`**|_`ri`_|ru|`re`|ro弱|
+|**r**|`ra`|_`ri`_|ru|`re`|ro弱|
 |**x**||||||
 |**j**||||||
 |**q**||||||
 
-<font color="red">红色文字</font>
-<font color="#00FF00">绿色文字</font>
-
- `ra`
-  `高亮文字`
-wi,私,我、ki,君,你、hi,他
+wi,私,我、ki,君,你、hi,他，win我们，kin你们，hin他们
 hi de nu,他出去了
-+ 人闲桂花落，
-- 夜静春山空。
-! 月出惊山鸟，
-# 时鸣春涧中。
+<font color="red">这是红色文字</font>
+<font color="blue">这是蓝色文字</font>
+<font color="green">这是绿色文字</font>
+
+<font color="#FF5733">这是橙红色文字</font>
+<font color="rgb(128, 0, 128)">这是紫色文字</font>
+
+<span style="color: red;">这是红色文字</span>
+<span style="color: #008000;">这是绿色文字</span>
+<span style="color: rgb(0, 0, 255);">这是蓝色文字</span>
+
+<span style="color: purple; font-size: 18px; font-family: Arial;">这是紫色、18px大小的Arial字体文字</span>
+
+| 颜色示例 |
+| :--- |
+| <table><tr><td bgcolor="yellow">黄色背景的文字</td></tr></table> |
+| <table><tr><td bgcolor="lightgreen">浅绿色背景的文字</td></tr></table> |
+
+```diff
++ 这是绿色文字（代表新增）
+- 这是红色文字（代表删除）
+! 这是黄色文字（代表修改）
+```
