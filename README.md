@@ -33,7 +33,7 @@
 |**j**||||||
 |**q**||||||
 
-wi,私,我，ki,君,你，hi,他，win我们，kin你们，hin他们
+wi,wo,私,我，ki,ni,君,你，hi,ta,他，win我们，kin你们，hin他们
 
 hi de nu,他出去了
 
@@ -49,8 +49,8 @@ hi de nu,他出去了
 [^note]: 这是脚注内容
 
 <details>
-  <summary>点击展开</summary>
-  这里是隐藏的内容。
+  <summary></summary>
+ ![1234567890](pictures/Screenshots3.png)
 </details>
 
 E=mc^2^
