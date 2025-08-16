@@ -42,7 +42,7 @@ hi de nu,他出去了
 
 `这是行内代码`
 [访问我的网站](https://www.example.com)
-![1](https://www.example.com/image.jpg)
+![1](pictures/Screenshots0.png)
 这是一个脚注示例[^note].
 [^note]: 这是脚注内容
 
