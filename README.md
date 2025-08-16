@@ -37,12 +37,19 @@ wi,私,我，ki,君,你，hi,他，win我们，kin你们，hin他们
 
 hi de nu,他出去了
 
-```diff
-| 颜色示例 |
-| :--- |
-| <table><tr><td bgcolor="yellow">黄色背景的文字</td></tr></table> |
-| <table><tr><td bgcolor="lightgreen">浅绿色背景的文字</td></tr></table> |
-```
+~~这是删除线文字~~
+> 这是一个引用块。
+`这是行内代码`
+[访问我的网站](https://www.example.com)
+![我的图片](https://www.example.com/image.jpg)
+这是一个脚注示例[^note].
+
+[^note]: 这是脚注内容。
+<details>
+  <summary>点击展开</summary>
+  这里是隐藏的内容。
+</details>
+$E=mc^2$
 
 ```diff
 + 这是绿色文字（代表新增）
