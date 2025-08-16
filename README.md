@@ -36,10 +36,11 @@
 <img src="pictures/Screenshots1.png?raw=true" width="200" height="150" alt="描述文字" />wi,watashi,wo,,私,我，
 <img src="pictures/Screenshots2.png?raw=true" width="200" height="150" alt="描述文字" />ki,kimi,ni,君,你，
 <img src="pictures/Screenshots3.png?raw=true" width="200" height="150" alt="描述文字" />hi,ta,他，
+
 win我们，kin你们，hin他们
 
 hi de nu,他出去了
-<img src="pictures/Screenshots3.png?raw=true" width="300" height="200" alt="描述文字" />
+
 
 
 ~~这是删除线文字~~
