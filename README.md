@@ -33,9 +33,9 @@
 |**j**||||||
 |**q**||||||
 
-wi<img src="pictures/Screenshots1.png?raw=true" width="200" height="150" alt="描述文字" /><details><summary></summary>wi,watashi,wo,,私,我，</details>
-ki<img src="pictures/Screenshots2.png?raw=true" width="200" height="150" alt="描述文字" /><details><summary></summary>ki,kimi,ni,君,你，</details>
-hi<img src="pictures/Screenshots3.png?raw=true" width="200" height="150" alt="描述文字" /><details><summary></summary>hi,ta,他，</details>
+wi<img src="pictures/Screenshots1.png?raw=true" width="200" height="150" alt="描述文字" />wi,watashi,wo,,私,我，
+ki<img src="pictures/Screenshots2.png?raw=true" width="200" height="150" alt="描述文字" />ki,kimi,ni,君,你，
+hi<img src="pictures/Screenshots3.png?raw=true" width="200" height="150" alt="描述文字" />hi,ta,他，
 
 win我们，kin你们，hin他们
 
@@ -44,36 +44,12 @@ hi de nu,他出去了
 |--|--|--|
 
 |ki|<img src="pictures/Screenshots2.png?raw=true" width="150" height="100" alt="描述文字" />| ki,kimi,ni,君,你 |
-|--|--|--|
+|--|--|--|,
 
 |hi|<img src="pictures/Screenshots3.png?raw=true" width="150" height="100" alt="描述文字" />| hi,ta,他 |
 |--|--|--|
 
-<div style="display: flex; justify-content: space-between;">
 
-<table>
-  <tr>
-    <th>表头1</th>
-    <th>表头2</th>
-  </tr>
-  <tr>
-    <td>内容1</td>
-    <td>内容2</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>表头A</th>
-    <th>表头B</th>
-  </tr>
-  <tr>
-    <td>内容A</td>
-    <td>内容B</td>
-  </tr>
-</table>
-
-</div>
 
 
 ~~这是删除线文字~~
