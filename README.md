@@ -33,7 +33,7 @@
 |**j**||||||
 |**q**||||||
 
-wi,wo,私,我，ki,ni,君,你，hi,ta,他，win我们，kin你们，hin他们
+wi,wo,![1234567890](pictures/Screenshots3.png),私,我，ki,ni,君,你，hi,ta,他，win我们，kin你们，hin他们
 
 hi de nu,他出去了
 
