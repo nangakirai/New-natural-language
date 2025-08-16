@@ -40,7 +40,7 @@ hi<img src="pictures/Screenshots3.png?raw=true" width="200" height="150" alt="�
 win我们，kin你们，hin他们
 
 hi de nu,他出去了
-|wi| ![Image](pictures/Screenshots0.png) | wi,watashi,wo,,私,我 |
+|wi| <img src="pictures/Screenshots1.png?raw=true" width="200" height="150" alt="描述文字" />| wi,watashi,wo,,私,我 |
 |--|-----------------------------|------------------------------|
 
 |ki| ![Image](pictures/Screenshots0.png) | ki,kimi,ni,君,你 |
