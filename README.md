@@ -33,9 +33,9 @@
 |**j**||||||
 |**q**||||||
 
-wi<img src="pictures/Screenshots1.png?raw=true" width="200" height="150" alt="描述文字" />wi,watashi,wo,,私,我，
-ki<img src="pictures/Screenshots2.png?raw=true" width="200" height="150" alt="描述文字" />ki,kimi,ni,君,你，
-hi<img src="pictures/Screenshots3.png?raw=true" width="200" height="150" alt="描述文字" />hi,ta,他，
+`wi`<img src="pictures/Screenshots1.png?raw=true" width="120" height="70" alt="描述文字" />wi,watashi,wo,私,我，
+`ki`<img src="pictures/Screenshots2.png?raw=true" width="120" height="70" alt="描述文字" />ki,kimi,ni,君,你，
+`hi`<img src="pictures/Screenshots3.png?raw=true" width="120" height="70" alt="描述文字" />hi,ta,他，
 
 win我们，kin你们，hin他们
 
