@@ -33,13 +33,16 @@
 |**j**||||||
 |**q**||||||
 
-`wi`<img src="pictures/Screenshots1.png?raw=true" width="120" height="90" alt="描述文字" />wi,watashi,wo,私,我，
-`ki`<img src="pictures/Screenshots2.png?raw=true" width="120" height="90" alt="描述文字" />ki,kimi,ni,君,你，
-`hi`<img src="pictures/Screenshots3.png?raw=true" width="120" height="90" alt="描述文字" />hi,ta,他，
+`wi`<img src="pictures/Screenshots1.png?raw=true" width="120" height="90" alt="描述文字" />wi,watashi,wo,私,我
+`ki`<img src="pictures/Screenshots2.png?raw=true" width="120" height="90" alt="描述文字" />ki,kimi,ni,君,你
+`hi`<img src="pictures/Screenshots3.png?raw=true" width="120" height="90" alt="描述文字" />hi,ta,他
 
 win我们，kin你们，hin他们
 
 hi de nu,他出去了
+
+
+
 |wi|<img src="pictures/Screenshots1.png?raw=true" width="150" height="100" alt="描述文字" />| wi,watashi,wo,,私,我 |  
 |--|--|--|
 
@@ -48,9 +51,6 @@ hi de nu,他出去了
 
 |hi|<img src="pictures/Screenshots3.png?raw=true" width="150" height="100" alt="描述文字" />| hi,ta,他 |
 |--|--|--|
-
-
-
 
 ~~这是删除线文字~~
 > 这是一个引用块。
