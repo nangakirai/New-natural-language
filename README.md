@@ -44,7 +44,7 @@ hi de nu,他出去了
 |--|--|--|
 
 |ki|<img src="pictures/Screenshots2.png?raw=true" width="150" height="100" alt="描述文字" />| ki,kimi,ni,君,你 |
-|--|--|--|,
+|--|--|--|
 
 |hi|<img src="pictures/Screenshots3.png?raw=true" width="150" height="100" alt="描述文字" />| hi,ta,他 |
 |--|--|--|
