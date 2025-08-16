@@ -42,15 +42,16 @@ hi de nu,他出去了
 
 `这是行内代码`
 [访问我的网站](https://www.example.com)
-![](https://www.example.com/image.jpg)
-这是一个脚注示例[^note].[^note]: 这是脚注内容
+![1](https://www.example.com/image.jpg)
+这是一个脚注示例[^note].
+[^note]: 这是脚注内容
 
 <details>
   <summary>点击展开</summary>
   这里是隐藏的内容。
 </details>
 
-E=mc^2
+E=mc^2^
 
 ```diff
 + 这是绿色文字（代表新增）
