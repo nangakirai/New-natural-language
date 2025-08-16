@@ -33,7 +33,7 @@
 |**j**||||||
 |**q**||||||
 
-<img src="pictures/Screenshots3.png?raw=true" width="100" height="80" alt="描述文字" />wi,wo,,私,我，ki,ni,君,你，hi,ta,他，win我们，kin你们，hin他们
+<img src="pictures/Screenshots3.png?raw=true" width="200" height="150" alt="描述文字" />wi,wo,,私,我，ki,ni,君,你，hi,ta,他，win我们，kin你们，hin他们
 
 hi de nu,他出去了
 <img src="pictures/Screenshots3.png?raw=true" width="300" height="200" alt="描述文字" />
