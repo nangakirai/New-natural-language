@@ -33,11 +33,7 @@
 |**j**||||||
 |**q**||||||
 
-wi<img src="pictures/Screenshots1.png?raw=true" width="200" height="150" alt="描述文字" />
-<details>
-  <summary></summary>
-wi,watashi,wo,,私,我，
-</details>
+wi<img src="pictures/Screenshots1.png?raw=true" width="200" height="150" alt="描述文字" /><details><summary>wi</summary>wi,watashi,wo,,私,我，</details>
 ki<img src="pictures/Screenshots2.png?raw=true" width="200" height="150" alt="描述文字" />ki,kimi,ni,君,你，
 hi<img src="pictures/Screenshots3.png?raw=true" width="200" height="150" alt="描述文字" />hi,ta,他，
 
