@@ -36,6 +36,8 @@
 wi,wo,![1234567890](pictures/Screenshots3.png),私,我，ki,ni,君,你，hi,ta,他，win我们，kin你们，hin他们
 
 hi de nu,他出去了
+<img src="pictures/Screenshots3.png?raw=true" width="300" height="200" alt="描述文字" />
+
 
 ~~这是删除线文字~~
 > 这是一个引用块。
