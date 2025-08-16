@@ -36,8 +36,10 @@
 `wi`<img src="pictures/Screenshots1.png?raw=true" width="120" height="90" alt="描述文字" />wi,watashi,wo,私,我
 `ki`<img src="pictures/Screenshots2.png?raw=true" width="120" height="90" alt="描述文字" />ki,kimi,ni,君,你
 `hi`<img src="pictures/Screenshots3.png?raw=true" width="120" height="90" alt="描述文字" />hi,ta,他
+`win`<img src="pictures/win.png?raw=true" width="120" height="90" alt="描述文字" />win我们
+`kin`<img src="pictures/kin.png?raw=true" width="120" height="90" alt="描述文字" />kin你们
+`hin`<img src="pictures/hin.png?raw=true" width="120" height="90" alt="描述文字" />hin他们
 
-win我们，kin你们，hin他们
 
 hi de nu,他出去了
 
