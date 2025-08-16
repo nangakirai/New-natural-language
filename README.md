@@ -43,9 +43,10 @@ hi de nu,他出去了
 |wi| ![Image](pictures/Screenshots0.png) | wi,watashi,wo,,私,我 |
 |--|-----------------------------|------------------------------|
 
-|wi| ![Image](pictures/Screenshots0.png) | wi,watashi,wo,,私,我 |
+|ki| ![Image](pictures/Screenshots0.png) | ki,kimi,ni,君,你 |
 |--|-----------------------------|------------------------------|
-|wi| ![Image](pictures/Screenshots0.png) | wi,watashi,wo,,私,我 |
+
+|hi| ![Image](pictures/Screenshots0.png) | hi,ta,他 |
 |--|-----------------------------|------------------------------|
 
 
